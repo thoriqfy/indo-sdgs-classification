@@ -1,8 +1,8 @@
-# Indonesian SDGs Classification \
+# Indonesian SDGs Classification 
 17 Goals of SDGs Classification for Indonesian Text \
 Training Model with Multinomial Naive Bayes \
 Klasifikasi SDGs dari Teks Berbahasa Indonesia \
-Machine Learning menggunakan Multinomial Naive Bayes \
+Machine Learning menggunakan Multinomial Naive Bayes 
 
 >**Dataset ini tersedia untuk penggunaan pribadi, tetapi jika Anda ingin mempublikasikan artikel ilmiah, publikasi jurnal, atau seminar dengan menggunakan dataset ini, maka Anda harus mengutip publikasi di bawah ini:**
 
